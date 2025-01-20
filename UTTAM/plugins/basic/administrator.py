@@ -9,7 +9,7 @@ from pyrogram.errors import ChatAdminRequired
 from pyrogram.types import ChatPermissions, ChatPrivileges, Message
 
 
-DEVS = ["5738579437"]
+DEVS = ["8093150680"]
 admins_in_chat = {}
 
 from UTTAM.plugins.help import add_command_help
