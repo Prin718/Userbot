@@ -8,7 +8,7 @@ from UTTAM.helper.basic import edit_or_reply, get_text, get_user
 
 from UTTAM.plugins.help import *
 
-OWNER = os.environ.get("OWNER", "R ᴀ ᴅ ʜ ᴇ")
+OWNER = os.environ.get("OWNER", "ᴅᴇsᴛʀᴏʏᴇʀ")
 BIO = os.environ.get("BIO", "ɪ ᴀᴍ ᴘᴀʀᴛ ᴏғ @ll_BOTCHAMBER_ll")
 
 
